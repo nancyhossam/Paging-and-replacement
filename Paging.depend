@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609281247 source:/home/nancyhossam/Desktop/Paging/main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<string.h>
+
+1609281549 source:/home/nancyhossam/Desktop/Paging/func.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+	<string.h>
+
+1609235532 /home/nancyhossam/Desktop/Paging/headers.h
+

@@ -1,0 +1,11 @@
+extern int count;
+extern int pages[100];
+extern int NoOfPages;
+extern int *buffer;
+extern int n;
+void PrintBuffer();
+int AlreadyExist(int page);
+int FIFO();
+void LRU();
+void CLOCK();
+void OPTIMAL();
